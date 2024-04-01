@@ -15,3 +15,4 @@ alert(3+3) //we are using nodejs,not browser
 //---------------------------------------------- output
 console.log(typeof undefined);                  //undefined
 console.log(typeof null);                        // object
+///
